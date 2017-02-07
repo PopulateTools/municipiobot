@@ -1,0 +1,22 @@
+{
+  "name": "municipiobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PopulateTools/municipiobot.git"
+  },
+  "author": "Martín González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PopulateTools/municipiobot/issues"
+  },
+  "homepage": "https://github.com/PopulateTools/municipiobot#readme",
+  "devDependencies": {
+    "d3": "^4.5.0"
+  }
+}

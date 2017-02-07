@@ -1,0 +1,882 @@
+A un hombre de Centro de menos de 1 año le quedan 79 años
+A un hombre de Arganzuela de menos de 1 año le quedan 81 años
+A un hombre de Retiro de menos de 1 año le quedan 82 años
+A un hombre de Salamanca de menos de 1 año le quedan 82 años
+A un hombre de Chamartín de menos de 1 año le quedan 81 años
+A un hombre de Tetuán de menos de 1 año le quedan 80 años
+A un hombre de Chamberí de menos de 1 año le quedan 81 años
+A un hombre de Fuencarral-El Pardo de menos de 1 año le quedan 82 años
+A un hombre de Moncloa-Aravaca de menos de 1 año le quedan 82 años
+A un hombre de Latina de menos de 1 año le quedan 81 años
+A un hombre de Carabanchel de menos de 1 año le quedan 80 años
+A un hombre de Usera de menos de 1 año le quedan 80 años
+A un hombre de Puente de Vallecas de menos de 1 año le quedan 78 años
+A un hombre de Moratalaz de menos de 1 año le quedan 81 años
+A un hombre de Ciudad Lineal de menos de 1 año le quedan 81 años
+A un hombre de Hortaleza de menos de 1 año le quedan 80 años
+A un hombre de Villaverde de menos de 1 año le quedan 79 años
+A un hombre de Villa de Vallecas de menos de 1 año le quedan 80 años
+A un hombre de Vicálvaro de menos de 1 año le quedan 82 años
+A un hombre de San Blas-Canillejas  de menos de 1 año le quedan 80 años
+A un hombre de Barajas de menos de 1 año le quedan 81 años
+A un hombre de Centro de 1 a 4 años le quedan 78 años
+A un hombre de Arganzuela de 1 a 4 años le quedan 80 años
+A un hombre de Retiro de 1 a 4 años le quedan 81 años
+A un hombre de Salamanca de 1 a 4 años le quedan 81 años
+A un hombre de Chamartín de 1 a 4 años le quedan 81 años
+A un hombre de Tetuán de 1 a 4 años le quedan 79 años
+A un hombre de Chamberí de 1 a 4 años le quedan 80 años
+A un hombre de Fuencarral-El Pardo de 1 a 4 años le quedan 81 años
+A un hombre de Moncloa-Aravaca de 1 a 4 años le quedan 81 años
+A un hombre de Latina de 1 a 4 años le quedan 80 años
+A un hombre de Carabanchel de 1 a 4 años le quedan 79 años
+A un hombre de Usera de 1 a 4 años le quedan 79 años
+A un hombre de Puente de Vallecas de 1 a 4 años le quedan 78 años
+A un hombre de Moratalaz de 1 a 4 años le quedan 80 años
+A un hombre de Ciudad Lineal de 1 a 4 años le quedan 80 años
+A un hombre de Hortaleza de 1 a 4 años le quedan 79 años
+A un hombre de Villaverde de 1 a 4 años le quedan 79 años
+A un hombre de Villa de Vallecas de 1 a 4 años le quedan 79 años
+A un hombre de Vicálvaro de 1 a 4 años le quedan 81 años
+A un hombre de San Blas-Canillejas  de 1 a 4 años le quedan 79 años
+A un hombre de Barajas de 1 a 4 años le quedan 80 años
+A un hombre de Centro de 5 a 9 años le quedan 74 años
+A un hombre de Arganzuela de 5 a 9 años le quedan 76 años
+A un hombre de Retiro de 5 a 9 años le quedan 77 años
+A un hombre de Salamanca de 5 a 9 años le quedan 77 años
+A un hombre de Chamartín de 5 a 9 años le quedan 77 años
+A un hombre de Tetuán de 5 a 9 años le quedan 75 años
+A un hombre de Chamberí de 5 a 9 años le quedan 76 años
+A un hombre de Fuencarral-El Pardo de 5 a 9 años le quedan 77 años
+A un hombre de Moncloa-Aravaca de 5 a 9 años le quedan 77 años
+A un hombre de Latina de 5 a 9 años le quedan 76 años
+A un hombre de Carabanchel de 5 a 9 años le quedan 75 años
+A un hombre de Usera de 5 a 9 años le quedan 75 años
+A un hombre de Puente de Vallecas de 5 a 9 años le quedan 74 años
+A un hombre de Moratalaz de 5 a 9 años le quedan 76 años
+A un hombre de Ciudad Lineal de 5 a 9 años le quedan 76 años
+A un hombre de Hortaleza de 5 a 9 años le quedan 75 años
+A un hombre de Villaverde de 5 a 9 años le quedan 75 años
+A un hombre de Villa de Vallecas de 5 a 9 años le quedan 75 años
+A un hombre de Vicálvaro de 5 a 9 años le quedan 78 años
+A un hombre de San Blas-Canillejas  de 5 a 9 años le quedan 75 años
+A un hombre de Barajas de 5 a 9 años le quedan 76 años
+A un hombre de Centro de 10 a 14 años le quedan 69 años
+A un hombre de Arganzuela de 10 a 14 años le quedan 71 años
+A un hombre de Retiro de 10 a 14 años le quedan 72 años
+A un hombre de Salamanca de 10 a 14 años le quedan 72 años
+A un hombre de Chamartín de 10 a 14 años le quedan 72 años
+A un hombre de Tetuán de 10 a 14 años le quedan 70 años
+A un hombre de Chamberí de 10 a 14 años le quedan 71 años
+A un hombre de Fuencarral-El Pardo de 10 a 14 años le quedan 72 años
+A un hombre de Moncloa-Aravaca de 10 a 14 años le quedan 72 años
+A un hombre de Latina de 10 a 14 años le quedan 71 años
+A un hombre de Carabanchel de 10 a 14 años le quedan 70 años
+A un hombre de Usera de 10 a 14 años le quedan 70 años
+A un hombre de Puente de Vallecas de 10 a 14 años le quedan 69 años
+A un hombre de Moratalaz de 10 a 14 años le quedan 71 años
+A un hombre de Ciudad Lineal de 10 a 14 años le quedan 71 años
+A un hombre de Hortaleza de 10 a 14 años le quedan 70 años
+A un hombre de Villaverde de 10 a 14 años le quedan 70 años
+A un hombre de Villa de Vallecas de 10 a 14 años le quedan 70 años
+A un hombre de Vicálvaro de 10 a 14 años le quedan 73 años
+A un hombre de San Blas-Canillejas  de 10 a 14 años le quedan 70 años
+A un hombre de Barajas de 10 a 14 años le quedan 71 años
+A un hombre de Centro de 15 a 19 años le quedan 65 años
+A un hombre de Arganzuela de 15 a 19 años le quedan 66 años
+A un hombre de Retiro de 15 a 19 años le quedan 67 años
+A un hombre de Salamanca de 15 a 19 años le quedan 67 años
+A un hombre de Chamartín de 15 a 19 años le quedan 67 años
+A un hombre de Tetuán de 15 a 19 años le quedan 65 años
+A un hombre de Chamberí de 15 a 19 años le quedan 66 años
+A un hombre de Fuencarral-El Pardo de 15 a 19 años le quedan 68 años
+A un hombre de Moncloa-Aravaca de 15 a 19 años le quedan 67 años
+A un hombre de Latina de 15 a 19 años le quedan 66 años
+A un hombre de Carabanchel de 15 a 19 años le quedan 65 años
+A un hombre de Usera de 15 a 19 años le quedan 65 años
+A un hombre de Puente de Vallecas de 15 a 19 años le quedan 64 años
+A un hombre de Moratalaz de 15 a 19 años le quedan 66 años
+A un hombre de Ciudad Lineal de 15 a 19 años le quedan 66 años
+A un hombre de Hortaleza de 15 a 19 años le quedan 65 años
+A un hombre de Villaverde de 15 a 19 años le quedan 65 años
+A un hombre de Villa de Vallecas de 15 a 19 años le quedan 65 años
+A un hombre de Vicálvaro de 15 a 19 años le quedan 68 años
+A un hombre de San Blas-Canillejas  de 15 a 19 años le quedan 65 años
+A un hombre de Barajas de 15 a 19 años le quedan 66 años
+A un hombre de Centro de 20 a 24 años le quedan 60 años
+A un hombre de Arganzuela de 20 a 24 años le quedan 61 años
+A un hombre de Retiro de 20 a 24 años le quedan 62 años
+A un hombre de Salamanca de 20 a 24 años le quedan 62 años
+A un hombre de Chamartín de 20 a 24 años le quedan 62 años
+A un hombre de Tetuán de 20 a 24 años le quedan 60 años
+A un hombre de Chamberí de 20 a 24 años le quedan 61 años
+A un hombre de Fuencarral-El Pardo de 20 a 24 años le quedan 63 años
+A un hombre de Moncloa-Aravaca de 20 a 24 años le quedan 62 años
+A un hombre de Latina de 20 a 24 años le quedan 61 años
+A un hombre de Carabanchel de 20 a 24 años le quedan 60 años
+A un hombre de Usera de 20 a 24 años le quedan 60 años
+A un hombre de Puente de Vallecas de 20 a 24 años le quedan 59 años
+A un hombre de Moratalaz de 20 a 24 años le quedan 61 años
+A un hombre de Ciudad Lineal de 20 a 24 años le quedan 61 años
+A un hombre de Hortaleza de 20 a 24 años le quedan 60 años
+A un hombre de Villaverde de 20 a 24 años le quedan 60 años
+A un hombre de Villa de Vallecas de 20 a 24 años le quedan 60 años
+A un hombre de Vicálvaro de 20 a 24 años le quedan 63 años
+A un hombre de San Blas-Canillejas  de 20 a 24 años le quedan 60 años
+A un hombre de Barajas de 20 a 24 años le quedan 61 años
+A un hombre de Centro de 25 a 29 años le quedan 55 años
+A un hombre de Arganzuela de 25 a 29 años le quedan 56 años
+A un hombre de Retiro de 25 a 29 años le quedan 58 años
+A un hombre de Salamanca de 25 a 29 años le quedan 57 años
+A un hombre de Chamartín de 25 a 29 años le quedan 57 años
+A un hombre de Tetuán de 25 a 29 años le quedan 55 años
+A un hombre de Chamberí de 25 a 29 años le quedan 56 años
+A un hombre de Fuencarral-El Pardo de 25 a 29 años le quedan 58 años
+A un hombre de Moncloa-Aravaca de 25 a 29 años le quedan 58 años
+A un hombre de Latina de 25 a 29 años le quedan 56 años
+A un hombre de Carabanchel de 25 a 29 años le quedan 55 años
+A un hombre de Usera de 25 a 29 años le quedan 55 años
+A un hombre de Puente de Vallecas de 25 a 29 años le quedan 54 años
+A un hombre de Moratalaz de 25 a 29 años le quedan 56 años
+A un hombre de Ciudad Lineal de 25 a 29 años le quedan 57 años
+A un hombre de Hortaleza de 25 a 29 años le quedan 55 años
+A un hombre de Villaverde de 25 a 29 años le quedan 55 años
+A un hombre de Villa de Vallecas de 25 a 29 años le quedan 55 años
+A un hombre de Vicálvaro de 25 a 29 años le quedan 58 años
+A un hombre de San Blas-Canillejas  de 25 a 29 años le quedan 55 años
+A un hombre de Barajas de 25 a 29 años le quedan 56 años
+A un hombre de Centro de 30 a 34 años le quedan 50 años
+A un hombre de Arganzuela de 30 a 34 años le quedan 51 años
+A un hombre de Retiro de 30 a 34 años le quedan 53 años
+A un hombre de Salamanca de 30 a 34 años le quedan 52 años
+A un hombre de Chamartín de 30 a 34 años le quedan 52 años
+A un hombre de Tetuán de 30 a 34 años le quedan 50 años
+A un hombre de Chamberí de 30 a 34 años le quedan 52 años
+A un hombre de Fuencarral-El Pardo de 30 a 34 años le quedan 53 años
+A un hombre de Moncloa-Aravaca de 30 a 34 años le quedan 53 años
+A un hombre de Latina de 30 a 34 años le quedan 51 años
+A un hombre de Carabanchel de 30 a 34 años le quedan 50 años
+A un hombre de Usera de 30 a 34 años le quedan 50 años
+A un hombre de Puente de Vallecas de 30 a 34 años le quedan 49 años
+A un hombre de Moratalaz de 30 a 34 años le quedan 51 años
+A un hombre de Ciudad Lineal de 30 a 34 años le quedan 52 años
+A un hombre de Hortaleza de 30 a 34 años le quedan 50 años
+A un hombre de Villaverde de 30 a 34 años le quedan 50 años
+A un hombre de Villa de Vallecas de 30 a 34 años le quedan 51 años
+A un hombre de Vicálvaro de 30 a 34 años le quedan 53 años
+A un hombre de San Blas-Canillejas  de 30 a 34 años le quedan 50 años
+A un hombre de Barajas de 30 a 34 años le quedan 51 años
+A un hombre de Centro de 35 a 39 años le quedan 45 años
+A un hombre de Arganzuela de 35 a 39 años le quedan 46 años
+A un hombre de Retiro de 35 a 39 años le quedan 48 años
+A un hombre de Salamanca de 35 a 39 años le quedan 47 años
+A un hombre de Chamartín de 35 a 39 años le quedan 47 años
+A un hombre de Tetuán de 35 a 39 años le quedan 45 años
+A un hombre de Chamberí de 35 a 39 años le quedan 47 años
+A un hombre de Fuencarral-El Pardo de 35 a 39 años le quedan 48 años
+A un hombre de Moncloa-Aravaca de 35 a 39 años le quedan 48 años
+A un hombre de Latina de 35 a 39 años le quedan 47 años
+A un hombre de Carabanchel de 35 a 39 años le quedan 45 años
+A un hombre de Usera de 35 a 39 años le quedan 45 años
+A un hombre de Puente de Vallecas de 35 a 39 años le quedan 44 años
+A un hombre de Moratalaz de 35 a 39 años le quedan 46 años
+A un hombre de Ciudad Lineal de 35 a 39 años le quedan 47 años
+A un hombre de Hortaleza de 35 a 39 años le quedan 46 años
+A un hombre de Villaverde de 35 a 39 años le quedan 46 años
+A un hombre de Villa de Vallecas de 35 a 39 años le quedan 46 años
+A un hombre de Vicálvaro de 35 a 39 años le quedan 48 años
+A un hombre de San Blas-Canillejas  de 35 a 39 años le quedan 45 años
+A un hombre de Barajas de 35 a 39 años le quedan 46 años
+A un hombre de Centro de 40 a 44 años le quedan 40 años
+A un hombre de Arganzuela de 40 a 44 años le quedan 42 años
+A un hombre de Retiro de 40 a 44 años le quedan 43 años
+A un hombre de Salamanca de 40 a 44 años le quedan 42 años
+A un hombre de Chamartín de 40 a 44 años le quedan 42 años
+A un hombre de Tetuán de 40 a 44 años le quedan 40 años
+A un hombre de Chamberí de 40 a 44 años le quedan 42 años
+A un hombre de Fuencarral-El Pardo de 40 a 44 años le quedan 43 años
+A un hombre de Moncloa-Aravaca de 40 a 44 años le quedan 43 años
+A un hombre de Latina de 40 a 44 años le quedan 42 años
+A un hombre de Carabanchel de 40 a 44 años le quedan 40 años
+A un hombre de Usera de 40 a 44 años le quedan 41 años
+A un hombre de Puente de Vallecas de 40 a 44 años le quedan 39 años
+A un hombre de Moratalaz de 40 a 44 años le quedan 41 años
+A un hombre de Ciudad Lineal de 40 a 44 años le quedan 42 años
+A un hombre de Hortaleza de 40 a 44 años le quedan 41 años
+A un hombre de Villaverde de 40 a 44 años le quedan 41 años
+A un hombre de Villa de Vallecas de 40 a 44 años le quedan 41 años
+A un hombre de Vicálvaro de 40 a 44 años le quedan 43 años
+A un hombre de San Blas-Canillejas  de 40 a 44 años le quedan 40 años
+A un hombre de Barajas de 40 a 44 años le quedan 41 años
+A un hombre de Centro de 45 a 49 años le quedan 35 años
+A un hombre de Arganzuela de 45 a 49 años le quedan 37 años
+A un hombre de Retiro de 45 a 49 años le quedan 38 años
+A un hombre de Salamanca de 45 a 49 años le quedan 38 años
+A un hombre de Chamartín de 45 a 49 años le quedan 37 años
+A un hombre de Tetuán de 45 a 49 años le quedan 36 años
+A un hombre de Chamberí de 45 a 49 años le quedan 37 años
+A un hombre de Fuencarral-El Pardo de 45 a 49 años le quedan 38 años
+A un hombre de Moncloa-Aravaca de 45 a 49 años le quedan 38 años
+A un hombre de Latina de 45 a 49 años le quedan 37 años
+A un hombre de Carabanchel de 45 a 49 años le quedan 36 años
+A un hombre de Usera de 45 a 49 años le quedan 36 años
+A un hombre de Puente de Vallecas de 45 a 49 años le quedan 35 años
+A un hombre de Moratalaz de 45 a 49 años le quedan 36 años
+A un hombre de Ciudad Lineal de 45 a 49 años le quedan 37 años
+A un hombre de Hortaleza de 45 a 49 años le quedan 36 años
+A un hombre de Villaverde de 45 a 49 años le quedan 36 años
+A un hombre de Villa de Vallecas de 45 a 49 años le quedan 36 años
+A un hombre de Vicálvaro de 45 a 49 años le quedan 38 años
+A un hombre de San Blas-Canillejas  de 45 a 49 años le quedan 36 años
+A un hombre de Barajas de 45 a 49 años le quedan 36 años
+A un hombre de Centro de 50 a 54 años le quedan 30 años
+A un hombre de Arganzuela de 50 a 54 años le quedan 32 años
+A un hombre de Retiro de 50 a 54 años le quedan 33 años
+A un hombre de Salamanca de 50 a 54 años le quedan 33 años
+A un hombre de Chamartín de 50 a 54 años le quedan 33 años
+A un hombre de Tetuán de 50 a 54 años le quedan 31 años
+A un hombre de Chamberí de 50 a 54 años le quedan 32 años
+A un hombre de Fuencarral-El Pardo de 50 a 54 años le quedan 33 años
+A un hombre de Moncloa-Aravaca de 50 a 54 años le quedan 33 años
+A un hombre de Latina de 50 a 54 años le quedan 32 años
+A un hombre de Carabanchel de 50 a 54 años le quedan 31 años
+A un hombre de Usera de 50 a 54 años le quedan 31 años
+A un hombre de Puente de Vallecas de 50 a 54 años le quedan 30 años
+A un hombre de Moratalaz de 50 a 54 años le quedan 32 años
+A un hombre de Ciudad Lineal de 50 a 54 años le quedan 32 años
+A un hombre de Hortaleza de 50 a 54 años le quedan 31 años
+A un hombre de Villaverde de 50 a 54 años le quedan 31 años
+A un hombre de Villa de Vallecas de 50 a 54 años le quedan 31 años
+A un hombre de Vicálvaro de 50 a 54 años le quedan 33 años
+A un hombre de San Blas-Canillejas  de 50 a 54 años le quedan 31 años
+A un hombre de Barajas de 50 a 54 años le quedan 32 años
+A un hombre de Centro de 55 a 59 años le quedan 26 años
+A un hombre de Arganzuela de 55 a 59 años le quedan 27 años
+A un hombre de Retiro de 55 a 59 años le quedan 29 años
+A un hombre de Salamanca de 55 a 59 años le quedan 28 años
+A un hombre de Chamartín de 55 a 59 años le quedan 28 años
+A un hombre de Tetuán de 55 a 59 años le quedan 27 años
+A un hombre de Chamberí de 55 a 59 años le quedan 28 años
+A un hombre de Fuencarral-El Pardo de 55 a 59 años le quedan 29 años
+A un hombre de Moncloa-Aravaca de 55 a 59 años le quedan 29 años
+A un hombre de Latina de 55 a 59 años le quedan 28 años
+A un hombre de Carabanchel de 55 a 59 años le quedan 27 años
+A un hombre de Usera de 55 a 59 años le quedan 27 años
+A un hombre de Puente de Vallecas de 55 a 59 años le quedan 26 años
+A un hombre de Moratalaz de 55 a 59 años le quedan 28 años
+A un hombre de Ciudad Lineal de 55 a 59 años le quedan 28 años
+A un hombre de Hortaleza de 55 a 59 años le quedan 27 años
+A un hombre de Villaverde de 55 a 59 años le quedan 27 años
+A un hombre de Villa de Vallecas de 55 a 59 años le quedan 27 años
+A un hombre de Vicálvaro de 55 a 59 años le quedan 28 años
+A un hombre de San Blas-Canillejas  de 55 a 59 años le quedan 27 años
+A un hombre de Barajas de 55 a 59 años le quedan 28 años
+A un hombre de Centro de 60 a 64 años le quedan 22 años
+A un hombre de Arganzuela de 60 a 64 años le quedan 23 años
+A un hombre de Retiro de 60 a 64 años le quedan 25 años
+A un hombre de Salamanca de 60 a 64 años le quedan 24 años
+A un hombre de Chamartín de 60 a 64 años le quedan 24 años
+A un hombre de Tetuán de 60 a 64 años le quedan 22 años
+A un hombre de Chamberí de 60 a 64 años le quedan 23 años
+A un hombre de Fuencarral-El Pardo de 60 a 64 años le quedan 24 años
+A un hombre de Moncloa-Aravaca de 60 a 64 años le quedan 24 años
+A un hombre de Latina de 60 a 64 años le quedan 24 años
+A un hombre de Carabanchel de 60 a 64 años le quedan 23 años
+A un hombre de Usera de 60 a 64 años le quedan 23 años
+A un hombre de Puente de Vallecas de 60 a 64 años le quedan 22 años
+A un hombre de Moratalaz de 60 a 64 años le quedan 24 años
+A un hombre de Ciudad Lineal de 60 a 64 años le quedan 23 años
+A un hombre de Hortaleza de 60 a 64 años le quedan 23 años
+A un hombre de Villaverde de 60 a 64 años le quedan 23 años
+A un hombre de Villa de Vallecas de 60 a 64 años le quedan 23 años
+A un hombre de Vicálvaro de 60 a 64 años le quedan 25 años
+A un hombre de San Blas-Canillejas  de 60 a 64 años le quedan 22 años
+A un hombre de Barajas de 60 a 64 años le quedan 23 años
+A un hombre de Centro de 65 a 69 años le quedan 18 años
+A un hombre de Arganzuela de 65 a 69 años le quedan 19 años
+A un hombre de Retiro de 65 a 69 años le quedan 20 años
+A un hombre de Salamanca de 65 a 69 años le quedan 20 años
+A un hombre de Chamartín de 65 a 69 años le quedan 20 años
+A un hombre de Tetuán de 65 a 69 años le quedan 19 años
+A un hombre de Chamberí de 65 a 69 años le quedan 19 años
+A un hombre de Fuencarral-El Pardo de 65 a 69 años le quedan 20 años
+A un hombre de Moncloa-Aravaca de 65 a 69 años le quedan 20 años
+A un hombre de Latina de 65 a 69 años le quedan 20 años
+A un hombre de Carabanchel de 65 a 69 años le quedan 19 años
+A un hombre de Usera de 65 a 69 años le quedan 19 años
+A un hombre de Puente de Vallecas de 65 a 69 años le quedan 18 años
+A un hombre de Moratalaz de 65 a 69 años le quedan 19 años
+A un hombre de Ciudad Lineal de 65 a 69 años le quedan 19 años
+A un hombre de Hortaleza de 65 a 69 años le quedan 19 años
+A un hombre de Villaverde de 65 a 69 años le quedan 19 años
+A un hombre de Villa de Vallecas de 65 a 69 años le quedan 19 años
+A un hombre de Vicálvaro de 65 a 69 años le quedan 20 años
+A un hombre de San Blas-Canillejas  de 65 a 69 años le quedan 19 años
+A un hombre de Barajas de 65 a 69 años le quedan 19 años
+A un hombre de Centro de 70 a 74 años le quedan 15 años
+A un hombre de Arganzuela de 70 a 74 años le quedan 15 años
+A un hombre de Retiro de 70 a 74 años le quedan 16 años
+A un hombre de Salamanca de 70 a 74 años le quedan 16 años
+A un hombre de Chamartín de 70 a 74 años le quedan 16 años
+A un hombre de Tetuán de 70 a 74 años le quedan 15 años
+A un hombre de Chamberí de 70 a 74 años le quedan 15 años
+A un hombre de Fuencarral-El Pardo de 70 a 74 años le quedan 16 años
+A un hombre de Moncloa-Aravaca de 70 a 74 años le quedan 16 años
+A un hombre de Latina de 70 a 74 años le quedan 16 años
+A un hombre de Carabanchel de 70 a 74 años le quedan 15 años
+A un hombre de Usera de 70 a 74 años le quedan 15 años
+A un hombre de Puente de Vallecas de 70 a 74 años le quedan 15 años
+A un hombre de Moratalaz de 70 a 74 años le quedan 15 años
+A un hombre de Ciudad Lineal de 70 a 74 años le quedan 16 años
+A un hombre de Hortaleza de 70 a 74 años le quedan 15 años
+A un hombre de Villaverde de 70 a 74 años le quedan 15 años
+A un hombre de Villa de Vallecas de 70 a 74 años le quedan 15 años
+A un hombre de Vicálvaro de 70 a 74 años le quedan 16 años
+A un hombre de San Blas-Canillejas  de 70 a 74 años le quedan 15 años
+A un hombre de Barajas de 70 a 74 años le quedan 15 años
+A un hombre de Centro de 75 a 79 años le quedan 11 años
+A un hombre de Arganzuela de 75 a 79 años le quedan 11 años
+A un hombre de Retiro de 75 a 79 años le quedan 12 años
+A un hombre de Salamanca de 75 a 79 años le quedan 12 años
+A un hombre de Chamartín de 75 a 79 años le quedan 12 años
+A un hombre de Tetuán de 75 a 79 años le quedan 12 años
+A un hombre de Chamberí de 75 a 79 años le quedan 11 años
+A un hombre de Fuencarral-El Pardo de 75 a 79 años le quedan 12 años
+A un hombre de Moncloa-Aravaca de 75 a 79 años le quedan 12 años
+A un hombre de Latina de 75 a 79 años le quedan 12 años
+A un hombre de Carabanchel de 75 a 79 años le quedan 12 años
+A un hombre de Usera de 75 a 79 años le quedan 12 años
+A un hombre de Puente de Vallecas de 75 a 79 años le quedan 11 años
+A un hombre de Moratalaz de 75 a 79 años le quedan 12 años
+A un hombre de Ciudad Lineal de 75 a 79 años le quedan 12 años
+A un hombre de Hortaleza de 75 a 79 años le quedan 12 años
+A un hombre de Villaverde de 75 a 79 años le quedan 12 años
+A un hombre de Villa de Vallecas de 75 a 79 años le quedan 11 años
+A un hombre de Vicálvaro de 75 a 79 años le quedan 12 años
+A un hombre de San Blas-Canillejas  de 75 a 79 años le quedan 11 años
+A un hombre de Barajas de 75 a 79 años le quedan 11 años
+A un hombre de Centro de 80 a 84 años le quedan 8. años
+A un hombre de Arganzuela de 80 a 84 años le quedan 8. años
+A un hombre de Retiro de 80 a 84 años le quedan 9. años
+A un hombre de Salamanca de 80 a 84 años le quedan 9. años
+A un hombre de Chamartín de 80 a 84 años le quedan 9. años
+A un hombre de Tetuán de 80 a 84 años le quedan 9. años
+A un hombre de Chamberí de 80 a 84 años le quedan 8. años
+A un hombre de Fuencarral-El Pardo de 80 a 84 años le quedan 9. años
+A un hombre de Moncloa-Aravaca de 80 a 84 años le quedan 9. años
+A un hombre de Latina de 80 a 84 años le quedan 9. años
+A un hombre de Carabanchel de 80 a 84 años le quedan 8. años
+A un hombre de Usera de 80 a 84 años le quedan 9. años
+A un hombre de Puente de Vallecas de 80 a 84 años le quedan 8. años
+A un hombre de Moratalaz de 80 a 84 años le quedan 9. años
+A un hombre de Ciudad Lineal de 80 a 84 años le quedan 9. años
+A un hombre de Hortaleza de 80 a 84 años le quedan 9. años
+A un hombre de Villaverde de 80 a 84 años le quedan 9. años
+A un hombre de Villa de Vallecas de 80 a 84 años le quedan 9. años
+A un hombre de Vicálvaro de 80 a 84 años le quedan 9. años
+A un hombre de San Blas-Canillejas  de 80 a 84 años le quedan 8. años
+A un hombre de Barajas de 80 a 84 años le quedan 8. años
+A un hombre de Centro de 85 a 89 años le quedan 6. años
+A un hombre de Arganzuela de 85 a 89 años le quedan 6. años
+A un hombre de Retiro de 85 a 89 años le quedan 7. años
+A un hombre de Salamanca de 85 a 89 años le quedan 6. años
+A un hombre de Chamartín de 85 a 89 años le quedan 6. años
+A un hombre de Tetuán de 85 a 89 años le quedan 6. años
+A un hombre de Chamberí de 85 a 89 años le quedan 6. años
+A un hombre de Fuencarral-El Pardo de 85 a 89 años le quedan 6. años
+A un hombre de Moncloa-Aravaca de 85 a 89 años le quedan 6. años
+A un hombre de Latina de 85 a 89 años le quedan 6. años
+A un hombre de Carabanchel de 85 a 89 años le quedan 6. años
+A un hombre de Usera de 85 a 89 años le quedan 6. años
+A un hombre de Puente de Vallecas de 85 a 89 años le quedan 6. años
+A un hombre de Moratalaz de 85 a 89 años le quedan 6. años
+A un hombre de Ciudad Lineal de 85 a 89 años le quedan 6. años
+A un hombre de Hortaleza de 85 a 89 años le quedan 6. años
+A un hombre de Villaverde de 85 a 89 años le quedan 6. años
+A un hombre de Villa de Vallecas de 85 a 89 años le quedan 6. años
+A un hombre de Vicálvaro de 85 a 89 años le quedan 6. años
+A un hombre de San Blas-Canillejas  de 85 a 89 años le quedan 5. años
+A un hombre de Barajas de 85 a 89 años le quedan 5. años
+A un hombre de Centro de 90 a 94 años le quedan 4. años
+A un hombre de Arganzuela de 90 a 94 años le quedan 4. años
+A un hombre de Retiro de 90 a 94 años le quedan 4. años
+A un hombre de Salamanca de 90 a 94 años le quedan 4. años
+A un hombre de Chamartín de 90 a 94 años le quedan 4. años
+A un hombre de Tetuán de 90 a 94 años le quedan 4. años
+A un hombre de Chamberí de 90 a 94 años le quedan 4. años
+A un hombre de Fuencarral-El Pardo de 90 a 94 años le quedan 4. años
+A un hombre de Moncloa-Aravaca de 90 a 94 años le quedan 4. años
+A un hombre de Latina de 90 a 94 años le quedan 4. años
+A un hombre de Carabanchel de 90 a 94 años le quedan 4. años
+A un hombre de Usera de 90 a 94 años le quedan 5. años
+A un hombre de Puente de Vallecas de 90 a 94 años le quedan 4. años
+A un hombre de Moratalaz de 90 a 94 años le quedan 4. años
+A un hombre de Ciudad Lineal de 90 a 94 años le quedan 4. años
+A un hombre de Hortaleza de 90 a 94 años le quedan 4. años
+A un hombre de Villaverde de 90 a 94 años le quedan 4. años
+A un hombre de Villa de Vallecas de 90 a 94 años le quedan 4. años
+A un hombre de Vicálvaro de 90 a 94 años le quedan 4. años
+A un hombre de San Blas-Canillejas  de 90 a 94 años le quedan 3. años
+A un hombre de Barajas de 90 a 94 años le quedan 3. años
+A un hombre de Centro de 95 y más años le quedan 2. años
+A un hombre de Arganzuela de 95 y más años le quedan 2. años
+A un hombre de Retiro de 95 y más años le quedan 3. años
+A un hombre de Salamanca de 95 y más años le quedan 2. años
+A un hombre de Chamartín de 95 y más años le quedan 2. años
+A un hombre de Tetuán de 95 y más años le quedan 3. años
+A un hombre de Chamberí de 95 y más años le quedan 2. años
+A un hombre de Fuencarral-El Pardo de 95 y más años le quedan 2. años
+A un hombre de Moncloa-Aravaca de 95 y más años le quedan 3. años
+A un hombre de Latina de 95 y más años le quedan 3. años
+A un hombre de Carabanchel de 95 y más años le quedan 2. años
+A un hombre de Usera de 95 y más años le quedan 3 años
+A un hombre de Puente de Vallecas de 95 y más años le quedan 2. años
+A un hombre de Moratalaz de 95 y más años le quedan 3. años
+A un hombre de Ciudad Lineal de 95 y más años le quedan 2. años
+A un hombre de Hortaleza de 95 y más años le quedan 2. años
+A un hombre de Villaverde de 95 y más años le quedan 2. años
+A un hombre de Villa de Vallecas de 95 y más años le quedan 3. años
+A un hombre de Vicálvaro de 95 y más años le quedan 3. años
+A un hombre de San Blas-Canillejas  de 95 y más años le quedan 2. años
+A un hombre de Barajas de 95 y más años le quedan 2. años
+A una mujer de Centro de menos de 1 año le quedan 86 años
+A una mujer de Arganzuela de menos de 1 año le quedan 87 años
+A una mujer de Retiro de menos de 1 año le quedan 87 años
+A una mujer de Salamanca de menos de 1 año le quedan 86 años
+A una mujer de Chamartín de menos de 1 año le quedan 87 años
+A una mujer de Tetuán de menos de 1 año le quedan 86 años
+A una mujer de Chamberí de menos de 1 año le quedan 86 años
+A una mujer de Fuencarral-El Pardo de menos de 1 año le quedan 86 años
+A una mujer de Moncloa-Aravaca de menos de 1 año le quedan 86 años
+A una mujer de Latina de menos de 1 año le quedan 87 años
+A una mujer de Carabanchel de menos de 1 año le quedan 86 años
+A una mujer de Usera de menos de 1 año le quedan 86 años
+A una mujer de Puente de Vallecas de menos de 1 año le quedan 85 años
+A una mujer de Moratalaz de menos de 1 año le quedan 87 años
+A una mujer de Ciudad Lineal de menos de 1 año le quedan 87 años
+A una mujer de Hortaleza de menos de 1 año le quedan 87 años
+A una mujer de Villaverde de menos de 1 año le quedan 85 años
+A una mujer de Villa de Vallecas de menos de 1 año le quedan 85 años
+A una mujer de Vicálvaro de menos de 1 año le quedan 86 años
+A una mujer de San Blas-Canillejas  de menos de 1 año le quedan 87 años
+A una mujer de Barajas de menos de 1 año le quedan 85 años
+A una mujer de Centro de 1 a 4 años le quedan 85 años
+A una mujer de Arganzuela de 1 a 4 años le quedan 86 años
+A una mujer de Retiro de 1 a 4 años le quedan 86 años
+A una mujer de Salamanca de 1 a 4 años le quedan 85 años
+A una mujer de Chamartín de 1 a 4 años le quedan 86 años
+A una mujer de Tetuán de 1 a 4 años le quedan 85 años
+A una mujer de Chamberí de 1 a 4 años le quedan 85 años
+A una mujer de Fuencarral-El Pardo de 1 a 4 años le quedan 85 años
+A una mujer de Moncloa-Aravaca de 1 a 4 años le quedan 85 años
+A una mujer de Latina de 1 a 4 años le quedan 86 años
+A una mujer de Carabanchel de 1 a 4 años le quedan 85 años
+A una mujer de Usera de 1 a 4 años le quedan 85 años
+A una mujer de Puente de Vallecas de 1 a 4 años le quedan 84 años
+A una mujer de Moratalaz de 1 a 4 años le quedan 86 años
+A una mujer de Ciudad Lineal de 1 a 4 años le quedan 86 años
+A una mujer de Hortaleza de 1 a 4 años le quedan 86 años
+A una mujer de Villaverde de 1 a 4 años le quedan 85 años
+A una mujer de Villa de Vallecas de 1 a 4 años le quedan 85 años
+A una mujer de Vicálvaro de 1 a 4 años le quedan 85 años
+A una mujer de San Blas-Canillejas  de 1 a 4 años le quedan 86 años
+A una mujer de Barajas de 1 a 4 años le quedan 85 años
+A una mujer de Centro de 5 a 9 años le quedan 81 años
+A una mujer de Arganzuela de 5 a 9 años le quedan 82 años
+A una mujer de Retiro de 5 a 9 años le quedan 82 años
+A una mujer de Salamanca de 5 a 9 años le quedan 81 años
+A una mujer de Chamartín de 5 a 9 años le quedan 82 años
+A una mujer de Tetuán de 5 a 9 años le quedan 81 años
+A una mujer de Chamberí de 5 a 9 años le quedan 81 años
+A una mujer de Fuencarral-El Pardo de 5 a 9 años le quedan 81 años
+A una mujer de Moncloa-Aravaca de 5 a 9 años le quedan 81 años
+A una mujer de Latina de 5 a 9 años le quedan 82 años
+A una mujer de Carabanchel de 5 a 9 años le quedan 82 años
+A una mujer de Usera de 5 a 9 años le quedan 81 años
+A una mujer de Puente de Vallecas de 5 a 9 años le quedan 80 años
+A una mujer de Moratalaz de 5 a 9 años le quedan 82 años
+A una mujer de Ciudad Lineal de 5 a 9 años le quedan 82 años
+A una mujer de Hortaleza de 5 a 9 años le quedan 82 años
+A una mujer de Villaverde de 5 a 9 años le quedan 81 años
+A una mujer de Villa de Vallecas de 5 a 9 años le quedan 81 años
+A una mujer de Vicálvaro de 5 a 9 años le quedan 81 años
+A una mujer de San Blas-Canillejas  de 5 a 9 años le quedan 82 años
+A una mujer de Barajas de 5 a 9 años le quedan 81 años
+A una mujer de Centro de 10 a 14 años le quedan 76 años
+A una mujer de Arganzuela de 10 a 14 años le quedan 77 años
+A una mujer de Retiro de 10 a 14 años le quedan 77 años
+A una mujer de Salamanca de 10 a 14 años le quedan 76 años
+A una mujer de Chamartín de 10 a 14 años le quedan 77 años
+A una mujer de Tetuán de 10 a 14 años le quedan 76 años
+A una mujer de Chamberí de 10 a 14 años le quedan 76 años
+A una mujer de Fuencarral-El Pardo de 10 a 14 años le quedan 76 años
+A una mujer de Moncloa-Aravaca de 10 a 14 años le quedan 76 años
+A una mujer de Latina de 10 a 14 años le quedan 77 años
+A una mujer de Carabanchel de 10 a 14 años le quedan 77 años
+A una mujer de Usera de 10 a 14 años le quedan 76 años
+A una mujer de Puente de Vallecas de 10 a 14 años le quedan 75 años
+A una mujer de Moratalaz de 10 a 14 años le quedan 77 años
+A una mujer de Ciudad Lineal de 10 a 14 años le quedan 77 años
+A una mujer de Hortaleza de 10 a 14 años le quedan 77 años
+A una mujer de Villaverde de 10 a 14 años le quedan 76 años
+A una mujer de Villa de Vallecas de 10 a 14 años le quedan 76 años
+A una mujer de Vicálvaro de 10 a 14 años le quedan 76 años
+A una mujer de San Blas-Canillejas  de 10 a 14 años le quedan 77 años
+A una mujer de Barajas de 10 a 14 años le quedan 76 años
+A una mujer de Centro de 15 a 19 años le quedan 71 años
+A una mujer de Arganzuela de 15 a 19 años le quedan 72 años
+A una mujer de Retiro de 15 a 19 años le quedan 72 años
+A una mujer de Salamanca de 15 a 19 años le quedan 71 años
+A una mujer de Chamartín de 15 a 19 años le quedan 72 años
+A una mujer de Tetuán de 15 a 19 años le quedan 71 años
+A una mujer de Chamberí de 15 a 19 años le quedan 71 años
+A una mujer de Fuencarral-El Pardo de 15 a 19 años le quedan 71 años
+A una mujer de Moncloa-Aravaca de 15 a 19 años le quedan 71 años
+A una mujer de Latina de 15 a 19 años le quedan 72 años
+A una mujer de Carabanchel de 15 a 19 años le quedan 72 años
+A una mujer de Usera de 15 a 19 años le quedan 71 años
+A una mujer de Puente de Vallecas de 15 a 19 años le quedan 70 años
+A una mujer de Moratalaz de 15 a 19 años le quedan 72 años
+A una mujer de Ciudad Lineal de 15 a 19 años le quedan 72 años
+A una mujer de Hortaleza de 15 a 19 años le quedan 72 años
+A una mujer de Villaverde de 15 a 19 años le quedan 71 años
+A una mujer de Villa de Vallecas de 15 a 19 años le quedan 71 años
+A una mujer de Vicálvaro de 15 a 19 años le quedan 71 años
+A una mujer de San Blas-Canillejas  de 15 a 19 años le quedan 72 años
+A una mujer de Barajas de 15 a 19 años le quedan 71 años
+A una mujer de Centro de 20 a 24 años le quedan 66 años
+A una mujer de Arganzuela de 20 a 24 años le quedan 67 años
+A una mujer de Retiro de 20 a 24 años le quedan 67 años
+A una mujer de Salamanca de 20 a 24 años le quedan 66 años
+A una mujer de Chamartín de 20 a 24 años le quedan 67 años
+A una mujer de Tetuán de 20 a 24 años le quedan 66 años
+A una mujer de Chamberí de 20 a 24 años le quedan 66 años
+A una mujer de Fuencarral-El Pardo de 20 a 24 años le quedan 66 años
+A una mujer de Moncloa-Aravaca de 20 a 24 años le quedan 66 años
+A una mujer de Latina de 20 a 24 años le quedan 67 años
+A una mujer de Carabanchel de 20 a 24 años le quedan 67 años
+A una mujer de Usera de 20 a 24 años le quedan 66 años
+A una mujer de Puente de Vallecas de 20 a 24 años le quedan 65 años
+A una mujer de Moratalaz de 20 a 24 años le quedan 67 años
+A una mujer de Ciudad Lineal de 20 a 24 años le quedan 67 años
+A una mujer de Hortaleza de 20 a 24 años le quedan 67 años
+A una mujer de Villaverde de 20 a 24 años le quedan 66 años
+A una mujer de Villa de Vallecas de 20 a 24 años le quedan 66 años
+A una mujer de Vicálvaro de 20 a 24 años le quedan 67 años
+A una mujer de San Blas-Canillejas  de 20 a 24 años le quedan 67 años
+A una mujer de Barajas de 20 a 24 años le quedan 66 años
+A una mujer de Centro de 25 a 29 años le quedan 61 años
+A una mujer de Arganzuela de 25 a 29 años le quedan 62 años
+A una mujer de Retiro de 25 a 29 años le quedan 62 años
+A una mujer de Salamanca de 25 a 29 años le quedan 61 años
+A una mujer de Chamartín de 25 a 29 años le quedan 62 años
+A una mujer de Tetuán de 25 a 29 años le quedan 61 años
+A una mujer de Chamberí de 25 a 29 años le quedan 61 años
+A una mujer de Fuencarral-El Pardo de 25 a 29 años le quedan 61 años
+A una mujer de Moncloa-Aravaca de 25 a 29 años le quedan 61 años
+A una mujer de Latina de 25 a 29 años le quedan 62 años
+A una mujer de Carabanchel de 25 a 29 años le quedan 62 años
+A una mujer de Usera de 25 a 29 años le quedan 61 años
+A una mujer de Puente de Vallecas de 25 a 29 años le quedan 61 años
+A una mujer de Moratalaz de 25 a 29 años le quedan 62 años
+A una mujer de Ciudad Lineal de 25 a 29 años le quedan 62 años
+A una mujer de Hortaleza de 25 a 29 años le quedan 62 años
+A una mujer de Villaverde de 25 a 29 años le quedan 61 años
+A una mujer de Villa de Vallecas de 25 a 29 años le quedan 61 años
+A una mujer de Vicálvaro de 25 a 29 años le quedan 62 años
+A una mujer de San Blas-Canillejas  de 25 a 29 años le quedan 62 años
+A una mujer de Barajas de 25 a 29 años le quedan 61 años
+A una mujer de Centro de 30 a 34 años le quedan 56 años
+A una mujer de Arganzuela de 30 a 34 años le quedan 57 años
+A una mujer de Retiro de 30 a 34 años le quedan 57 años
+A una mujer de Salamanca de 30 a 34 años le quedan 56 años
+A una mujer de Chamartín de 30 a 34 años le quedan 57 años
+A una mujer de Tetuán de 30 a 34 años le quedan 56 años
+A una mujer de Chamberí de 30 a 34 años le quedan 57 años
+A una mujer de Fuencarral-El Pardo de 30 a 34 años le quedan 56 años
+A una mujer de Moncloa-Aravaca de 30 a 34 años le quedan 56 años
+A una mujer de Latina de 30 a 34 años le quedan 57 años
+A una mujer de Carabanchel de 30 a 34 años le quedan 57 años
+A una mujer de Usera de 30 a 34 años le quedan 56 años
+A una mujer de Puente de Vallecas de 30 a 34 años le quedan 56 años
+A una mujer de Moratalaz de 30 a 34 años le quedan 57 años
+A una mujer de Ciudad Lineal de 30 a 34 años le quedan 57 años
+A una mujer de Hortaleza de 30 a 34 años le quedan 57 años
+A una mujer de Villaverde de 30 a 34 años le quedan 56 años
+A una mujer de Villa de Vallecas de 30 a 34 años le quedan 56 años
+A una mujer de Vicálvaro de 30 a 34 años le quedan 57 años
+A una mujer de San Blas-Canillejas  de 30 a 34 años le quedan 57 años
+A una mujer de Barajas de 30 a 34 años le quedan 56 años
+A una mujer de Centro de 35 a 39 años le quedan 51 años
+A una mujer de Arganzuela de 35 a 39 años le quedan 52 años
+A una mujer de Retiro de 35 a 39 años le quedan 52 años
+A una mujer de Salamanca de 35 a 39 años le quedan 51 años
+A una mujer de Chamartín de 35 a 39 años le quedan 52 años
+A una mujer de Tetuán de 35 a 39 años le quedan 51 años
+A una mujer de Chamberí de 35 a 39 años le quedan 52 años
+A una mujer de Fuencarral-El Pardo de 35 a 39 años le quedan 51 años
+A una mujer de Moncloa-Aravaca de 35 a 39 años le quedan 51 años
+A una mujer de Latina de 35 a 39 años le quedan 52 años
+A una mujer de Carabanchel de 35 a 39 años le quedan 52 años
+A una mujer de Usera de 35 a 39 años le quedan 51 años
+A una mujer de Puente de Vallecas de 35 a 39 años le quedan 51 años
+A una mujer de Moratalaz de 35 a 39 años le quedan 52 años
+A una mujer de Ciudad Lineal de 35 a 39 años le quedan 52 años
+A una mujer de Hortaleza de 35 a 39 años le quedan 52 años
+A una mujer de Villaverde de 35 a 39 años le quedan 51 años
+A una mujer de Villa de Vallecas de 35 a 39 años le quedan 51 años
+A una mujer de Vicálvaro de 35 a 39 años le quedan 52 años
+A una mujer de San Blas-Canillejas  de 35 a 39 años le quedan 52 años
+A una mujer de Barajas de 35 a 39 años le quedan 51 años
+A una mujer de Centro de 40 a 44 años le quedan 46 años
+A una mujer de Arganzuela de 40 a 44 años le quedan 47 años
+A una mujer de Retiro de 40 a 44 años le quedan 47 años
+A una mujer de Salamanca de 40 a 44 años le quedan 46 años
+A una mujer de Chamartín de 40 a 44 años le quedan 47 años
+A una mujer de Tetuán de 40 a 44 años le quedan 46 años
+A una mujer de Chamberí de 40 a 44 años le quedan 47 años
+A una mujer de Fuencarral-El Pardo de 40 a 44 años le quedan 46 años
+A una mujer de Moncloa-Aravaca de 40 a 44 años le quedan 46 años
+A una mujer de Latina de 40 a 44 años le quedan 47 años
+A una mujer de Carabanchel de 40 a 44 años le quedan 47 años
+A una mujer de Usera de 40 a 44 años le quedan 46 años
+A una mujer de Puente de Vallecas de 40 a 44 años le quedan 46 años
+A una mujer de Moratalaz de 40 a 44 años le quedan 47 años
+A una mujer de Ciudad Lineal de 40 a 44 años le quedan 47 años
+A una mujer de Hortaleza de 40 a 44 años le quedan 47 años
+A una mujer de Villaverde de 40 a 44 años le quedan 46 años
+A una mujer de Villa de Vallecas de 40 a 44 años le quedan 46 años
+A una mujer de Vicálvaro de 40 a 44 años le quedan 47 años
+A una mujer de San Blas-Canillejas  de 40 a 44 años le quedan 47 años
+A una mujer de Barajas de 40 a 44 años le quedan 46 años
+A una mujer de Centro de 45 a 49 años le quedan 41 años
+A una mujer de Arganzuela de 45 a 49 años le quedan 42 años
+A una mujer de Retiro de 45 a 49 años le quedan 43 años
+A una mujer de Salamanca de 45 a 49 años le quedan 42 años
+A una mujer de Chamartín de 45 a 49 años le quedan 42 años
+A una mujer de Tetuán de 45 a 49 años le quedan 41 años
+A una mujer de Chamberí de 45 a 49 años le quedan 42 años
+A una mujer de Fuencarral-El Pardo de 45 a 49 años le quedan 41 años
+A una mujer de Moncloa-Aravaca de 45 a 49 años le quedan 42 años
+A una mujer de Latina de 45 a 49 años le quedan 42 años
+A una mujer de Carabanchel de 45 a 49 años le quedan 42 años
+A una mujer de Usera de 45 a 49 años le quedan 41 años
+A una mujer de Puente de Vallecas de 45 a 49 años le quedan 41 años
+A una mujer de Moratalaz de 45 a 49 años le quedan 42 años
+A una mujer de Ciudad Lineal de 45 a 49 años le quedan 43 años
+A una mujer de Hortaleza de 45 a 49 años le quedan 42 años
+A una mujer de Villaverde de 45 a 49 años le quedan 41 años
+A una mujer de Villa de Vallecas de 45 a 49 años le quedan 41 años
+A una mujer de Vicálvaro de 45 a 49 años le quedan 42 años
+A una mujer de San Blas-Canillejas  de 45 a 49 años le quedan 42 años
+A una mujer de Barajas de 45 a 49 años le quedan 41 años
+A una mujer de Centro de 50 a 54 años le quedan 37 años
+A una mujer de Arganzuela de 50 a 54 años le quedan 37 años
+A una mujer de Retiro de 50 a 54 años le quedan 38 años
+A una mujer de Salamanca de 50 a 54 años le quedan 37 años
+A una mujer de Chamartín de 50 a 54 años le quedan 37 años
+A una mujer de Tetuán de 50 a 54 años le quedan 37 años
+A una mujer de Chamberí de 50 a 54 años le quedan 37 años
+A una mujer de Fuencarral-El Pardo de 50 a 54 años le quedan 37 años
+A una mujer de Moncloa-Aravaca de 50 a 54 años le quedan 37 años
+A una mujer de Latina de 50 a 54 años le quedan 38 años
+A una mujer de Carabanchel de 50 a 54 años le quedan 37 años
+A una mujer de Usera de 50 a 54 años le quedan 37 años
+A una mujer de Puente de Vallecas de 50 a 54 años le quedan 36 años
+A una mujer de Moratalaz de 50 a 54 años le quedan 38 años
+A una mujer de Ciudad Lineal de 50 a 54 años le quedan 38 años
+A una mujer de Hortaleza de 50 a 54 años le quedan 37 años
+A una mujer de Villaverde de 50 a 54 años le quedan 37 años
+A una mujer de Villa de Vallecas de 50 a 54 años le quedan 36 años
+A una mujer de Vicálvaro de 50 a 54 años le quedan 37 años
+A una mujer de San Blas-Canillejas  de 50 a 54 años le quedan 37 años
+A una mujer de Barajas de 50 a 54 años le quedan 36 años
+A una mujer de Centro de 55 a 59 años le quedan 32 años
+A una mujer de Arganzuela de 55 a 59 años le quedan 33 años
+A una mujer de Retiro de 55 a 59 años le quedan 34 años
+A una mujer de Salamanca de 55 a 59 años le quedan 32 años
+A una mujer de Chamartín de 55 a 59 años le quedan 33 años
+A una mujer de Tetuán de 55 a 59 años le quedan 32 años
+A una mujer de Chamberí de 55 a 59 años le quedan 32 años
+A una mujer de Fuencarral-El Pardo de 55 a 59 años le quedan 32 años
+A una mujer de Moncloa-Aravaca de 55 a 59 años le quedan 32 años
+A una mujer de Latina de 55 a 59 años le quedan 33 años
+A una mujer de Carabanchel de 55 a 59 años le quedan 32 años
+A una mujer de Usera de 55 a 59 años le quedan 32 años
+A una mujer de Puente de Vallecas de 55 a 59 años le quedan 32 años
+A una mujer de Moratalaz de 55 a 59 años le quedan 33 años
+A una mujer de Ciudad Lineal de 55 a 59 años le quedan 33 años
+A una mujer de Hortaleza de 55 a 59 años le quedan 33 años
+A una mujer de Villaverde de 55 a 59 años le quedan 32 años
+A una mujer de Villa de Vallecas de 55 a 59 años le quedan 32 años
+A una mujer de Vicálvaro de 55 a 59 años le quedan 32 años
+A una mujer de San Blas-Canillejas  de 55 a 59 años le quedan 32 años
+A una mujer de Barajas de 55 a 59 años le quedan 32 años
+A una mujer de Centro de 60 a 64 años le quedan 28 años
+A una mujer de Arganzuela de 60 a 64 años le quedan 28 años
+A una mujer de Retiro de 60 a 64 años le quedan 29 años
+A una mujer de Salamanca de 60 a 64 años le quedan 28 años
+A una mujer de Chamartín de 60 a 64 años le quedan 28 años
+A una mujer de Tetuán de 60 a 64 años le quedan 28 años
+A una mujer de Chamberí de 60 a 64 años le quedan 28 años
+A una mujer de Fuencarral-El Pardo de 60 a 64 años le quedan 27 años
+A una mujer de Moncloa-Aravaca de 60 a 64 años le quedan 28 años
+A una mujer de Latina de 60 a 64 años le quedan 28 años
+A una mujer de Carabanchel de 60 a 64 años le quedan 28 años
+A una mujer de Usera de 60 a 64 años le quedan 27 años
+A una mujer de Puente de Vallecas de 60 a 64 años le quedan 27 años
+A una mujer de Moratalaz de 60 a 64 años le quedan 28 años
+A una mujer de Ciudad Lineal de 60 a 64 años le quedan 29 años
+A una mujer de Hortaleza de 60 a 64 años le quedan 28 años
+A una mujer de Villaverde de 60 a 64 años le quedan 27 años
+A una mujer de Villa de Vallecas de 60 a 64 años le quedan 27 años
+A una mujer de Vicálvaro de 60 a 64 años le quedan 28 años
+A una mujer de San Blas-Canillejas  de 60 a 64 años le quedan 28 años
+A una mujer de Barajas de 60 a 64 años le quedan 27 años
+A una mujer de Centro de 65 a 69 años le quedan 23 años
+A una mujer de Arganzuela de 65 a 69 años le quedan 24 años
+A una mujer de Retiro de 65 a 69 años le quedan 24 años
+A una mujer de Salamanca de 65 a 69 años le quedan 23 años
+A una mujer de Chamartín de 65 a 69 años le quedan 24 años
+A una mujer de Tetuán de 65 a 69 años le quedan 23 años
+A una mujer de Chamberí de 65 a 69 años le quedan 23 años
+A una mujer de Fuencarral-El Pardo de 65 a 69 años le quedan 23 años
+A una mujer de Moncloa-Aravaca de 65 a 69 años le quedan 23 años
+A una mujer de Latina de 65 a 69 años le quedan 24 años
+A una mujer de Carabanchel de 65 a 69 años le quedan 23 años
+A una mujer de Usera de 65 a 69 años le quedan 23 años
+A una mujer de Puente de Vallecas de 65 a 69 años le quedan 23 años
+A una mujer de Moratalaz de 65 a 69 años le quedan 24 años
+A una mujer de Ciudad Lineal de 65 a 69 años le quedan 24 años
+A una mujer de Hortaleza de 65 a 69 años le quedan 24 años
+A una mujer de Villaverde de 65 a 69 años le quedan 23 años
+A una mujer de Villa de Vallecas de 65 a 69 años le quedan 22 años
+A una mujer de Vicálvaro de 65 a 69 años le quedan 24 años
+A una mujer de San Blas-Canillejas  de 65 a 69 años le quedan 23 años
+A una mujer de Barajas de 65 a 69 años le quedan 23 años
+A una mujer de Centro de 70 a 74 años le quedan 19 años
+A una mujer de Arganzuela de 70 a 74 años le quedan 19 años
+A una mujer de Retiro de 70 a 74 años le quedan 20 años
+A una mujer de Salamanca de 70 a 74 años le quedan 19 años
+A una mujer de Chamartín de 70 a 74 años le quedan 20 años
+A una mujer de Tetuán de 70 a 74 años le quedan 19 años
+A una mujer de Chamberí de 70 a 74 años le quedan 19 años
+A una mujer de Fuencarral-El Pardo de 70 a 74 años le quedan 19 años
+A una mujer de Moncloa-Aravaca de 70 a 74 años le quedan 19 años
+A una mujer de Latina de 70 a 74 años le quedan 20 años
+A una mujer de Carabanchel de 70 a 74 años le quedan 19 años
+A una mujer de Usera de 70 a 74 años le quedan 19 años
+A una mujer de Puente de Vallecas de 70 a 74 años le quedan 19 años
+A una mujer de Moratalaz de 70 a 74 años le quedan 19 años
+A una mujer de Ciudad Lineal de 70 a 74 años le quedan 20 años
+A una mujer de Hortaleza de 70 a 74 años le quedan 19 años
+A una mujer de Villaverde de 70 a 74 años le quedan 19 años
+A una mujer de Villa de Vallecas de 70 a 74 años le quedan 18 años
+A una mujer de Vicálvaro de 70 a 74 años le quedan 19 años
+A una mujer de San Blas-Canillejas  de 70 a 74 años le quedan 19 años
+A una mujer de Barajas de 70 a 74 años le quedan 19 años
+A una mujer de Centro de 75 a 79 años le quedan 15 años
+A una mujer de Arganzuela de 75 a 79 años le quedan 15 años
+A una mujer de Retiro de 75 a 79 años le quedan 15 años
+A una mujer de Salamanca de 75 a 79 años le quedan 15 años
+A una mujer de Chamartín de 75 a 79 años le quedan 15 años
+A una mujer de Tetuán de 75 a 79 años le quedan 15 años
+A una mujer de Chamberí de 75 a 79 años le quedan 15 años
+A una mujer de Fuencarral-El Pardo de 75 a 79 años le quedan 15 años
+A una mujer de Moncloa-Aravaca de 75 a 79 años le quedan 14 años
+A una mujer de Latina de 75 a 79 años le quedan 15 años
+A una mujer de Carabanchel de 75 a 79 años le quedan 15 años
+A una mujer de Usera de 75 a 79 años le quedan 15 años
+A una mujer de Puente de Vallecas de 75 a 79 años le quedan 14 años
+A una mujer de Moratalaz de 75 a 79 años le quedan 15 años
+A una mujer de Ciudad Lineal de 75 a 79 años le quedan 15 años
+A una mujer de Hortaleza de 75 a 79 años le quedan 15 años
+A una mujer de Villaverde de 75 a 79 años le quedan 14 años
+A una mujer de Villa de Vallecas de 75 a 79 años le quedan 14 años
+A una mujer de Vicálvaro de 75 a 79 años le quedan 15 años
+A una mujer de San Blas-Canillejas  de 75 a 79 años le quedan 14 años
+A una mujer de Barajas de 75 a 79 años le quedan 15 años
+A una mujer de Centro de 80 a 84 años le quedan 11 años
+A una mujer de Arganzuela de 80 a 84 años le quedan 11 años
+A una mujer de Retiro de 80 a 84 años le quedan 11 años
+A una mujer de Salamanca de 80 a 84 años le quedan 11 años
+A una mujer de Chamartín de 80 a 84 años le quedan 11 años
+A una mujer de Tetuán de 80 a 84 años le quedan 11 años
+A una mujer de Chamberí de 80 a 84 años le quedan 11 años
+A una mujer de Fuencarral-El Pardo de 80 a 84 años le quedan 11 años
+A una mujer de Moncloa-Aravaca de 80 a 84 años le quedan 11 años
+A una mujer de Latina de 80 a 84 años le quedan 11 años
+A una mujer de Carabanchel de 80 a 84 años le quedan 11 años
+A una mujer de Usera de 80 a 84 años le quedan 11 años
+A una mujer de Puente de Vallecas de 80 a 84 años le quedan 10 años
+A una mujer de Moratalaz de 80 a 84 años le quedan 11 años
+A una mujer de Ciudad Lineal de 80 a 84 años le quedan 11 años
+A una mujer de Hortaleza de 80 a 84 años le quedan 11 años
+A una mujer de Villaverde de 80 a 84 años le quedan 10 años
+A una mujer de Villa de Vallecas de 80 a 84 años le quedan 10 años
+A una mujer de Vicálvaro de 80 a 84 años le quedan 11 años
+A una mujer de San Blas-Canillejas  de 80 a 84 años le quedan 11 años
+A una mujer de Barajas de 80 a 84 años le quedan 11 años
+A una mujer de Centro de 85 a 89 años le quedan 7. años
+A una mujer de Arganzuela de 85 a 89 años le quedan 7. años
+A una mujer de Retiro de 85 a 89 años le quedan 8. años
+A una mujer de Salamanca de 85 a 89 años le quedan 8. años
+A una mujer de Chamartín de 85 a 89 años le quedan 8. años
+A una mujer de Tetuán de 85 a 89 años le quedan 8. años
+A una mujer de Chamberí de 85 a 89 años le quedan 7. años
+A una mujer de Fuencarral-El Pardo de 85 a 89 años le quedan 7. años
+A una mujer de Moncloa-Aravaca de 85 a 89 años le quedan 7. años
+A una mujer de Latina de 85 a 89 años le quedan 8. años
+A una mujer de Carabanchel de 85 a 89 años le quedan 8. años
+A una mujer de Usera de 85 a 89 años le quedan 7. años
+A una mujer de Puente de Vallecas de 85 a 89 años le quedan 7. años
+A una mujer de Moratalaz de 85 a 89 años le quedan 8. años
+A una mujer de Ciudad Lineal de 85 a 89 años le quedan 8. años
+A una mujer de Hortaleza de 85 a 89 años le quedan 7. años
+A una mujer de Villaverde de 85 a 89 años le quedan 7. años
+A una mujer de Villa de Vallecas de 85 a 89 años le quedan 7. años
+A una mujer de Vicálvaro de 85 a 89 años le quedan 7. años
+A una mujer de San Blas-Canillejas  de 85 a 89 años le quedan 7. años
+A una mujer de Barajas de 85 a 89 años le quedan 8. años
+A una mujer de Centro de 90 a 94 años le quedan 5. años
+A una mujer de Arganzuela de 90 a 94 años le quedan 5. años
+A una mujer de Retiro de 90 a 94 años le quedan 5. años
+A una mujer de Salamanca de 90 a 94 años le quedan 5. años
+A una mujer de Chamartín de 90 a 94 años le quedan 5. años
+A una mujer de Tetuán de 90 a 94 años le quedan 5. años
+A una mujer de Chamberí de 90 a 94 años le quedan 4. años
+A una mujer de Fuencarral-El Pardo de 90 a 94 años le quedan 4. años
+A una mujer de Moncloa-Aravaca de 90 a 94 años le quedan 5. años
+A una mujer de Latina de 90 a 94 años le quedan 5. años
+A una mujer de Carabanchel de 90 a 94 años le quedan 5. años
+A una mujer de Usera de 90 a 94 años le quedan 5. años
+A una mujer de Puente de Vallecas de 90 a 94 años le quedan 4. años
+A una mujer de Moratalaz de 90 a 94 años le quedan 5. años
+A una mujer de Ciudad Lineal de 90 a 94 años le quedan 5. años
+A una mujer de Hortaleza de 90 a 94 años le quedan 5. años
+A una mujer de Villaverde de 90 a 94 años le quedan 4. años
+A una mujer de Villa de Vallecas de 90 a 94 años le quedan 4. años
+A una mujer de Vicálvaro de 90 a 94 años le quedan 4. años
+A una mujer de San Blas-Canillejas  de 90 a 94 años le quedan 5. años
+A una mujer de Barajas de 90 a 94 años le quedan 4. años
+A una mujer de Centro de 95 y más años le quedan 3. años
+A una mujer de Arganzuela de 95 y más años le quedan 3. años
+A una mujer de Retiro de 95 y más años le quedan 3. años
+A una mujer de Salamanca de 95 y más años le quedan 3. años
+A una mujer de Chamartín de 95 y más años le quedan 3. años
+A una mujer de Tetuán de 95 y más años le quedan 3. años
+A una mujer de Chamberí de 95 y más años le quedan 3. años
+A una mujer de Fuencarral-El Pardo de 95 y más años le quedan 3. años
+A una mujer de Moncloa-Aravaca de 95 y más años le quedan 3. años
+A una mujer de Latina de 95 y más años le quedan 3. años
+A una mujer de Carabanchel de 95 y más años le quedan 3. años
+A una mujer de Usera de 95 y más años le quedan 3. años
+A una mujer de Puente de Vallecas de 95 y más años le quedan 2. años
+A una mujer de Moratalaz de 95 y más años le quedan 2. años
+A una mujer de Ciudad Lineal de 95 y más años le quedan 3. años
+A una mujer de Hortaleza de 95 y más años le quedan 3. años
+A una mujer de Villaverde de 95 y más años le quedan 3. años
+A una mujer de Villa de Vallecas de 95 y más años le quedan 3. años
+A una mujer de Vicálvaro de 95 y más años le quedan 2. años
+A una mujer de San Blas-Canillejas  de 95 y más años le quedan 3. años
+A una mujer de Barajas de 95 y más años le quedan 2. años
