@@ -3,7 +3,7 @@ library(jsonlite)
 library(dplyr)
 
 # Get data and budget categories from the TBI API
-url_budget <- "https://tbi.populate.tools/gobierto/datasets/ds-presupuestos-municipales-partida.json?sort_desc_by=date&with_metadata=true&filter_by_municipality_id=08019&filter_by_year=2016"
+url_budget <- "https://tbi.populate.tools/gobierto/datasets/ds-presupuestos-municipales-partida.json?sort_desc_by=date&with_metadata=true&filter_by_municipality_id=28079&filter_by_year=2016"
 get_budget <- GET(url=url_budget, add_headers(Authorization=paste("Bearer", Sys.getenv("POPULATE_DATA_TOKEN"), sep=" "), Origin="http://madrid.gobierto.dev"))
 budget <- fromJSON(content(get_budget, type="text"))
 budget <- budget$data
